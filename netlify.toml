@@ -1,0 +1,12 @@
+[[redirects]]
+    from = "/*"
+    to = "/404notFound.html"
+    status = 404
+
+[[redirects]]
+    from = "/ar"
+    to = "/ar.html"
+
+[[redirects]]
+    from = "/en"
+    to = "/index.html"
